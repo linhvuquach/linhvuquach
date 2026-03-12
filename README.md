@@ -1,6 +1,6 @@
 ### Hi, I'm Linh (Louis). I'm a Full-stack Software Engineer.
 
-I enjoy finding solutions to issues, and elevating client pleasure, so I often learn and contribute solutions along the way.
+Build 4 life.
 
 The best way to track my work is to follow me on [Twitter (@linhvuquach)](https://twitter.com/linhvuquach)
 
